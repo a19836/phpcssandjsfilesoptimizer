@@ -21,6 +21,8 @@ With this library, you can:
 - Allow fine-grained control over which URLs should be optimized or ignored.
 - Reuse cached optimized files to avoid unnecessary recomputation.
 
+To see a working example, open [index.php](index.php) on your server.
+
 ## How It Works
 
 1. The optimizer scans the provided HTML content.
@@ -34,7 +36,7 @@ This process drastically reduces the number of requests the browser needs to mak
 ## Usage
 
 ```php
-include __DIR__ . "/CssAndJSFilesOptimizer.php";
+include __DIR__ . "/lib/CssAndJSFilesOptimizer.php";
 
 //init optimizer
 $webroot_cache_folder_path = __DIR__ . "/cache/"; //this folder must be accessible via browser

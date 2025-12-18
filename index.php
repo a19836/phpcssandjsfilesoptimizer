@@ -53,7 +53,7 @@ p {margin:0 0 20px; text-align:center;}
 	<h5>Usage</h5>
 	<div class="code">
 		<textarea readonly>
-include __DIR__ . "/CssAndJSFilesOptimizer.php";
+include __DIR__ . "/lib/CssAndJSFilesOptimizer.php";
 
 //init optimizer
 $webroot_cache_folder_path = __DIR__ . "/cache/"; //this folder must be accessible via browser
