@@ -1,7 +1,7 @@
 # PHP CSS and JS Files Optimizer
 
 > Original Repos:   
-> - PHP CSS and JS Files Optimizer: https://github.com/a19836/phpcssandjsfilesoptimizer/   
+> - PHP CSS and JS Files Optimizer: https://github.com/a19836/php-css-and-js-files-optimizer/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
